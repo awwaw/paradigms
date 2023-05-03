@@ -186,3 +186,6 @@
    'sumexp Sumexp
    'lse LSE
   })
+
+(def parseObject (createParser Constant Variable object-operations))
+
